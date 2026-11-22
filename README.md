@@ -8,7 +8,7 @@ Projet perso : je crée mes propres applications pour me simplifier la vie.
 
 https://github.com/user-attachments/assets/a8c66b79-fcf9-4a9d-b8d7-4a88be2aea16
 
-Aussi sur YouTube : https://youtu.be/Y0UroSCA7VM
+Aussi sur YouTube : https://youtu.be/Y0UroSCA7VM et sur Instagram : https://www.instagram.com/reel/DgCaxmviMwN/
 
 ## Ce que fait l'app
 
