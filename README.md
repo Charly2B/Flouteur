@@ -6,6 +6,8 @@ Projet perso : je crée mes propres applications pour me simplifier la vie.
 
 ## Vidéo de présentation
 
+https://github.com/user-attachments/assets/a8c66b79-fcf9-4a9d-b8d7-4a88be2aea16
+
 Aussi sur YouTube : https://youtu.be/Y0UroSCA7VM
 
 ## Ce que fait l'app
